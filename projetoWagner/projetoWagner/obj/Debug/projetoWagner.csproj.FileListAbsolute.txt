@@ -20,3 +20,14 @@ C:\Users\vitor\Downloads\projetoWagner\projetoWagner\projetoWagner\obj\Debug\pro
 C:\Users\vitor\Downloads\projetoWagner\projetoWagner\projetoWagner\bin\Debug\projetoWagner.exe.config
 C:\Users\vitor\Downloads\projetoWagner\projetoWagner\projetoWagner\bin\Debug\projetoWagner.exe
 C:\Users\vitor\Downloads\projetoWagner\projetoWagner\projetoWagner\bin\Debug\projetoWagner.pdb
+D:\GitHub\paint\projetoWagner\projetoWagner\bin\Debug\projetoWagner.exe.config
+D:\GitHub\paint\projetoWagner\projetoWagner\bin\Debug\projetoWagner.exe
+D:\GitHub\paint\projetoWagner\projetoWagner\bin\Debug\projetoWagner.pdb
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.csproj.AssemblyReference.cache
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.csproj.ResolveComReference.cache
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.Form1.resources
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.Properties.Resources.resources
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.csproj.GenerateResource.cache
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.csproj.CoreCompileInputs.cache
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.exe
+D:\GitHub\paint\projetoWagner\projetoWagner\obj\Debug\projetoWagner.pdb
